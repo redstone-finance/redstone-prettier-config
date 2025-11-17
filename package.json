@@ -1,6 +1,6 @@
 {
   "name": "redstone-prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/redstone-finance/redstone-prettier-config",
   "author": "hatskier <suvorovalex1997@gmail.com>",
